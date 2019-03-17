@@ -1,0 +1,53 @@
+D:\Programmation\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\Programmation\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\Programmation\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\Programmation\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\Programmation\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\Programmation\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\Programmation\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\Programmation\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\Programmation\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\moskalenko_s\Desktop\Game_1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\moskalenko_s\Desktop\Game_1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\moskalenko_s\Desktop\Game_1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\moskalenko_s\Desktop\Game_1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\moskalenko_s\Desktop\Game_1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\moskalenko_s\Desktop\Game_1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\moskalenko_s\Desktop\Game_1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\moskalenko_s\Desktop\Game_1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\moskalenko_s\Desktop\Game_1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\moskalenko_s\Desktop\Game_1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\moskalenko_s\Desktop\Game_1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form3.resources
+C:\Users\moskalenko_s\Desktop\Game_1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form4.resources
+C:\Users\moskalenko_s\Desktop\Game_1\WindowsFormsApplication1\obj\Debug\Interop.MediaPlayer.dll
+C:\Users\moskalenko_s\Desktop\Game_1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+C:\Users\moskalenko_s\Desktop\Game_1\WindowsFormsApplication1\obj\Debug\Interop.WMPLib.dll
+C:\Users\moskalenko_s\Desktop\Game_1\WindowsFormsApplication1\bin\Debug\OpenTK.dll
+C:\Users\moskalenko_s\Desktop\Game_1\WindowsFormsApplication1\bin\Debug\OpenTK.GLControl.dll
+C:\Users\moskalenko_s\Desktop\Game_1\WindowsFormsApplication1\bin\Debug\OpenTK.pdb
+C:\Users\moskalenko_s\Desktop\Game_1\WindowsFormsApplication1\bin\Debug\OpenTK.xml
+C:\Users\moskalenko_s\Desktop\Game_1\WindowsFormsApplication1\bin\Debug\OpenTK.GLControl.xml
+C:\Users\moskalenko_s\Desktop\Game_1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form5.resources
+C:\Users\moskalenko_s\Desktop\Game_1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form6.resources
+C:\Users\moskalenko_s\Desktop\Game_1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form7.resources
+C:\Users\moskalenko_s\Desktop\My games\Game_1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\moskalenko_s\Desktop\My games\Game_1\WindowsFormsApplication1\obj\Debug\Interop.MediaPlayer.dll
+C:\Users\moskalenko_s\Desktop\My games\Game_1\WindowsFormsApplication1\obj\Debug\Interop.WMPLib.dll
+C:\Users\moskalenko_s\Desktop\My games\Game_1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+C:\Users\moskalenko_s\Desktop\My games\Game_1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\moskalenko_s\Desktop\My games\Game_1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\moskalenko_s\Desktop\My games\Game_1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\moskalenko_s\Desktop\My games\Game_1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\moskalenko_s\Desktop\My games\Game_1\WindowsFormsApplication1\bin\Debug\OpenTK.pdb
+C:\Users\moskalenko_s\Desktop\My games\Game_1\WindowsFormsApplication1\bin\Debug\OpenTK.xml
+C:\Users\moskalenko_s\Desktop\My games\Game_1\WindowsFormsApplication1\bin\Debug\OpenTK.GLControl.xml
+C:\Users\moskalenko_s\Desktop\My games\Game_1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\moskalenko_s\Desktop\My games\Game_1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\moskalenko_s\Desktop\My games\Game_1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\moskalenko_s\Desktop\My games\Game_1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form3.resources
+C:\Users\moskalenko_s\Desktop\My games\Game_1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form4.resources
+C:\Users\moskalenko_s\Desktop\My games\Game_1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form5.resources
+C:\Users\moskalenko_s\Desktop\My games\Game_1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form6.resources
+C:\Users\moskalenko_s\Desktop\My games\Game_1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form7.resources
+C:\Users\moskalenko_s\Desktop\My games\Game_1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\moskalenko_s\Desktop\My games\Game_1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache

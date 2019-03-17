@@ -1,0 +1,4 @@
+C:\Users\moskalenko_s\Desktop\Game_1\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.exe.config
+C:\Users\moskalenko_s\Desktop\Game_1\WindowsFormsApplication1\obj\Release\Interop.MediaPlayer.dll
+C:\Users\moskalenko_s\Desktop\Game_1\WindowsFormsApplication1\obj\Release\Interop.WMPLib.dll
+C:\Users\moskalenko_s\Desktop\Game_1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.csproj.ResolveComReference.cache

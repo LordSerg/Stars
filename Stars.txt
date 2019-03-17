@@ -1,0 +1,116 @@
+Звезды:  
+timer 1:
+{
+            GL.ClearColor(Color.Black);
+            GL.Clear(ClearBufferMask.ColorBufferBit);
+            GL.Begin(PrimitiveType.Lines);
+            stars_1();
+            GL.End();
+            GL.Flush();
+            glControl1.SwapBuffers();
+}
+
+     private void stars_1()
+        {
+            double x = MousePosition.X - this.glControl1.Width / 2;
+            double y = MousePosition.Y - this.glControl1.Height / 2;
+            for (int i = 0; i < n; i++)
+            {
+                if (y <= 0)
+                {
+                    if (x <= 0)
+                    {
+                        if ((a[i].Y < -1) || (a[i].X > 1))
+                        {
+                            a[i].Y = -a[i].Y;
+                            a[i].X = -a[i].X;
+                        }
+                        else
+                        {
+                            GL.Color3(Color.FromArgb(0, 0, Convert.ToInt32(Math.Sqrt(Math.Abs((x * x / 100) + (y * y / 100))))))/*, Convert.ToInt32(Math.Sqrt(Math.Abs(x * x / 100)))));
+                            GL.Vertex3(a[i]);
+                            a[i].Y -= Math.Abs(y / 1000);
+                            a[i].X += Math.Abs(x / 1000);
+                            GL.Color3(Color.White);
+                            GL.Vertex3(a[i]);
+                        }
+                    }
+                    else
+                    {
+                        if ((a[i].Y< -1) || (a[i].X< -1))
+                        {
+                            a[i].Y = -a[i].Y;
+                            a[i].X = -a[i].X;
+                        }
+                        else
+                        {
+                            GL.Color3(Color.FromArgb(0, 0, Convert.ToInt32(Math.Sqrt(Math.Abs((x* x / 100) + (y* y / 100))))))/*, Convert.ToInt32(Math.Sqrt(Math.Abs(x * x / 100)))));
+                            GL.Vertex3(a[i]);
+                            a[i].Y -= Math.Abs(y / 1000);
+                            a[i].X -= Math.Abs(x / 1000);
+                            GL.Color3(Color.White);
+                            GL.Vertex3(a[i]);
+                        }
+                    }
+                }
+                if (y > 0)
+                {
+                    if (x <= 0)
+                    {
+                        if ((a[i].Y > 1) || (a[i].X > 1))
+                        {
+                            a[i].Y = -a[i].Y;
+                            a[i].X = -a[i].X;
+                        }
+                        else
+                        {
+                            GL.Color3(Color.FromArgb(0, 0, Convert.ToInt32(Math.Sqrt(Math.Abs((x* x / 100) + (y* y / 100))))))/*, Convert.ToInt32(Math.Sqrt(Math.Abs(x * x / 100)))));
+                            GL.Vertex3(a[i]);
+                            a[i].Y += Math.Abs(y / 1000);
+                            a[i].X += Math.Abs(x / 1000);
+                            GL.Color3(Color.White);
+                            GL.Vertex3(a[i]);
+                        }
+                    }
+                    else
+                    {
+                        if ((a[i].Y > 1) || (a[i].X< -1))
+                        {
+                            a[i].Y = -a[i].Y;
+                            a[i].X = -a[i].X;
+                        }
+                        else
+                        {
+                            GL.Color3(Color.FromArgb(0, 0, Convert.ToInt32(Math.Sqrt(Math.Abs((x* x / 100) + (y* y / 100))))))/*, Convert.ToInt32(Math.Sqrt(Math.Abs(x * x / 100)))));
+                            GL.Vertex3(a[i]);
+                            a[i].Y += Math.Abs(y / 1000);
+                            a[i].X -= Math.Abs(x / 1000);
+                            GL.Color3(Color.White);
+                            GL.Vertex3(a[i]);
+                        }
+                    }
+                }
+            }
+        }
+
+    Load:
+n=100;
+            GL.ClearColor(Color.Black);
+            GL.Clear(ClearBufferMask.ColorBufferBit);
+            a = new Vector3d[n];
+            Random r = new Random();
+            for (int i = 0; i < n; i ++)
+            {
+                a[i].X = 0.001*r.Next(-1000,2000);
+                a[i].Y = 0.001*r.Next(-1000,2000);
+                a[i].Z = 0.001 * r.Next(-1000, 2000);
+                GL.Begin(PrimitiveType.Points);
+                GL.Color3(Color.Red);
+                GL.Vertex3(a[i]);
+                GL.Flush();
+                GL.End();
+            }
+            
+            glControl1.SwapBuffers();
+            timer1.Enabled = false;
+            timer1.Interval = 1;
